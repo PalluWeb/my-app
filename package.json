@@ -22,7 +22,6 @@
     "react-scripts": "^5.0.1",
     "react-toastify": "^9.1.1",
     "sha256": "^0.2.0",
-    "vercel": "^28.18.3",
     "wagmi": "^0.12.6",
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.19"
